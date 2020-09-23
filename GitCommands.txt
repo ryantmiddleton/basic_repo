@@ -1,8 +1,12 @@
 #From ~/Projects/MyTestProj
 git init
 git add .
-git commit
+git commit -m "My first commit"
 #Created a new repository called basic_repo.git from my Github account @ 
 #https://github.com/ryantmiddleton/
 git remote add origin https://github.com/ryantmiddleton/basic_repo.git
+git push origin master
+#Edited main.js and styles.css
+git add main.js styles.css
+git commit -m "Added a new function to main.js and a new style to styles.css"
 git push origin master
