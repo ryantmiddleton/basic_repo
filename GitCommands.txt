@@ -1,4 +1,4 @@
-#From ~/Projects/basic_repo
+#From ~/Projects/MyTestProj
 git init
 git add .
 git commit
