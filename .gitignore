@@ -1,0 +1,8 @@
+# ignore any directory named "packages"
+/packages
+# ignore secrets.js
+secret.js
+# ignore anything that begins with "log"
+log*
+#any files *.txt files
+*.txt
