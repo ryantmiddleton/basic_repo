@@ -1,0 +1,8 @@
+#From ~/Projects/basic_repo
+git init
+git add .
+git commit
+#Created a new repository called basic_repo.git from my Github account @ 
+#https://github.com/ryantmiddleton/
+git remote add origin https://github.com/ryantmiddleton/basic_repo.git
+git push origin master
