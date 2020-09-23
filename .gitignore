@@ -6,3 +6,4 @@ secret.js
 log*
 #any files *.txt files
 *.txt
+*.exe
