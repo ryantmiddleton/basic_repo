@@ -1,5 +1,5 @@
-function MyFun{
-    for(i=0;i<10;i++){
+function MyFun(
+    for(var i=0;i<10;i++){
         console.log("Hello out there!");
     }
-}
+)
